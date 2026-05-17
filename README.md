@@ -6,7 +6,7 @@ A production-level AI SaaS web application that generates ATS-optimized, persona
 ![AI](https://img.shields.io/badge/AI-Google_Gemini-orange)
 ![Frontend](https://img.shields.io/badge/Frontend-React_+_Vite-61dafb)
 ![Deploy](https://img.shields.io/badge/Deploy-Vercel_+_Render-black)
-
+Vercel Live Link  :- https://covercraft-ai-l21l.vercel.app
 ---
 
 ## ✨ Features
@@ -227,5 +227,4 @@ npm run build
 
 MIT License — free to use and modify for personal and commercial projects.
 
-Vercel Live Link  :- https://covercraft-ai-l21l.vercel.app
-Clone Repo :-
+
