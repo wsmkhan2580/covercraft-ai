@@ -190,7 +190,6 @@ npm run build
 # - Root: ./frontend
 # - Build Command: npm run build
 # - Output Directory: dist
-# - Add env var: VITE_API_URL=https://your-backend.onrender.com
 ```
 
 ### Backend → Render
@@ -199,19 +198,7 @@ npm run build
 # - Root Directory: ./backend
 # - Build Command: npm install
 # - Start Command: node src/server.js
-# - Add env vars: GEMINI_API_KEY, NODE_ENV=production, FRONTEND_URL=https://your-app.vercel.app
-```
-
-### Backend → Railway
-```bash
-# Install Railway CLI
-npm install -g @railway/cli
-
-railway login
-railway init
-railway add
-railway deploy
-```
+# - Add env vars: GEMINI_API_KEY, NODE_ENV=production,
 
 ---
 
@@ -240,6 +227,5 @@ railway deploy
 
 MIT License — free to use and modify for personal and commercial projects.
 
----
-
-Built with ❤️ using Google Gemini AI
+Vercel Live Link  :- https://covercraft-ai-l21l.vercel.app
+Clone Repo :-
