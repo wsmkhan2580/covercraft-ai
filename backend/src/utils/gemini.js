@@ -103,7 +103,11 @@ STRICT RULES:
 - Start directly from "Dear Hiring Manager,"
 - Do not add notes after the cover letter
 - Return ONLY the cover letter text
-- REMEMBER: minimum 600 words, count before submitting
+
+- MUST be between 350 and 450 words
+- NEVER write more than 450 words
+- NEVER write less than 350 words
+- Count your words before responding
 
 Write the full cover letter now:`
 }
